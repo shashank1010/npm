@@ -1,9 +1,9 @@
 {
-  "name": "npm",
+  "name": "@binary.operations/npm",
   "version": "1.0.0",
   "description": "Just for the fun",
   "main": "index.js",
   "repository": "https://github.com/shashank1010/npm",
-  "author": "shashank1010@gmail.com",
+  "author": "Shashank Agarwal <shashank1010@gmail.com>",
   "license": "MIT"
 }
